@@ -1,0 +1,15 @@
+Response for area1:
+| Machinery Name | Color | Status (Active/Inactive) | Company Name (if available) | Area |
+| :--- | :--- | :--- | :--- | :--- |
+| Excavator | Orange | Inactive | | area1 |
+================================================================================
+Response for area1:
+| Machinery Name | Color | Status (Active/Inactive) | Company Name (if available) | Area |
+| :--- | :--- | :--- | :--- | :--- |
+| Excavator | Orange | Active | | area1 |
+================================================================================
+Response for area1:
+| Machinery Name | Color | Status (Active/Inactive) | Company Name (if available) | Area |
+| :--- | :--- | :--- | :--- | :--- |
+| Excavator | Orange | Inactive | Liebherr | area1 |
+================================================================================
