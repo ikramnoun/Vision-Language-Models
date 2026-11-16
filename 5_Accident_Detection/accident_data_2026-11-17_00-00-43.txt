@@ -1,0 +1,3 @@
+Timestamp | Track ID | Accident Severity | Vehicles Involved | Location Details | Reason
+----------------------------------------------------------------------------------------------------
+2026-11-17 00:00:45 | 1 | Medium | 1 | Village road | Skidding / Wet road conditions
