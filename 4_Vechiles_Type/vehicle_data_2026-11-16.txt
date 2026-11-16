@@ -1,0 +1,7 @@
+Timestamp | Track ID | Vehicle Type | Vehicle Color | Vehicle Company
+--------------------------------------------------------------------------------
+2026-11-16_01-32-47 | Track ID: 11 | Tata Van (likely Tata Winger) | White | Tata
+2026-11-16_01-32-47 | Track ID: 357 | Tata Nexon | White | Tata Motors
+2026-11-16_01-32-49 | Track ID: 87 | Truck | Brown | Eicher
+2026-11-16_01-32-48 | Track ID: 17 | Maruti Suzuki Wagon R | White | Maruti Suzuki
+2026-11-16_01-32-53 | Track ID: 256 | Car | Pink | Tata
